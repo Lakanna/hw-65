@@ -371,3 +371,27 @@ a {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
+
+.dyvo{
+    background-color: #434455;
+}
+.tit{
+    color: #e7e9fc;
+}
+.log-icon{
+ width: 40px;}
+
+ .png{
+    width: 100%;
+ }
+ .youtube{
+    color: #e7e9fc;
+ }
+ .youtube1{
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    padding: 7px;
+    border-radius: 4px;
+    fill: #e0e0e0;
+ }
